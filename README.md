@@ -13,6 +13,15 @@ Speaker setup files and guides for how to run the system
 8. Switch on PDU 1 & 2, this turns on all the speakers
 9. Open your choice of audio playback system and turn up the volume knob.
 
+## Running from your laptop
+
+1. Follow steps above
+2. Download and install the [MOTU AVB / Pro Audio drivers](https://motu.com/download) onto your laptop.
+3. Plug in to Motu in back of rack using USB or ethernet cable
+4. Open MOTU discovery on your laptop.
+5. Pick a routing preset
+6. Use the rack PC to manage the GLM and volume knob, or download the GLM software and this repo for the default speaker setup and calibration.
+
 ## System Specification
 16.1 channel spatial audio system with:
 
