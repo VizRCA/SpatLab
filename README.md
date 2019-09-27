@@ -25,22 +25,22 @@ Speaker setup files and guides for how to run the system
 ## System Specification
 16.1 channel spatial audio system with:
 
-+ 4 height speakers - Genelec 8330A SAM Studio Monitor
-+ 8 lateral speakers - Genelec 8330A SAM Studio Monitor
-+ 4 ground speakers - Genelec 8330A SAM Studio Monitor
-+ 1 subwoofer - Genelec 7350A Smart Active Subwoofer
++ 4 height speakers - [Genelec 8330A SAM Studio Monitor](https://www.genelec.com/studio-monitors/sam-studio-monitors/8330a-sam-studio-monitor)
++ 8 lateral speakers - [Genelec 8330A SAM Studio Monitor](https://www.genelec.com/studio-monitors/sam-studio-monitors/8330a-sam-studio-monitor)
++ 4 ground speakers - [Genelec 8330A SAM Studio Monitor](https://www.genelec.com/studio-monitors/sam-studio-monitors/8330a-sam-studio-monitor)
++ 1 subwoofer - [Genelec 7350A Smart Active Subwoofer](https://www.genelec.com/studio-monitors/sam-studio-subwoofers/7350a-sam-studio-subwoofer)
 
-All speakers are controlled using the Genelec Speaker management system GLM 3.0. All speakers are mounted on a scaffold rig with specific speaker alignments.
+All speakers are controlled using the [Genelec Speaker management system GLM 3.0](https://www.genelec.com/glm). All speakers are mounted on a scaffold rig with specific speaker alignments.
 
 3 Rackmounted PDUs supply all power; these, in turn, plug into separate wall sockets.
 
-Audio output from the computer is managed through a MOTU 112D AVB Audio interface.
+Audio output from the computer is managed through a [MOTU 112D AVB Audio interface](https://motu.com/products/avb/112d).
 
 ## Spatial Audio Rendering
 
 Currently three softwares are configured for Spatial Audio Rendering:
 
-+ Reaper, using Blue Ripple Rapture 3D Advanced ambisonic decoder
++ Reaper, using [Blue Ripple Rapture 3D Advanced ambisonic decoder](https://www.blueripplesound.com/products/rapture-3d-advanced)
 + Max/MSP, using IRCAM's Spat plugin suite, allowing a variety of rendering options.
 + Rapture 3D - Ambisonic Player, Standalone Ambisonic file playback using
 
